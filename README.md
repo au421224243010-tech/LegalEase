@@ -26,11 +26,8 @@ Copy `.env.example` to `.env` and set:
 GEMINI_API_KEY=your_key
 GEMINI_MODEL=gemini-2.5-flash
 ```
-Run:
-```bash
-uvicorn main:app --reload
-```
-Open http://127.0.0.1:8000
+live site:
+https://legalease-zuam.onrender.com/
 
 ## Render
 Build: `pip install -r requirements.txt`
